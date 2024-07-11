@@ -355,3 +355,7 @@ span {
 }
 
 
+@media (max-width: 768px) {
+    /* Estilos específicos para pantallas menores o igual a 768px */
+  }
+  
